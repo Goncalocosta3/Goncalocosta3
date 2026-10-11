@@ -1,16 +1,12 @@
-## Hi there 👋
+# Hi my name is goncalo 
+I am a University student who is studying cybersecurity and also learning how to program. I want to expand my knowledge on cybersecurity and improve my problem solving skills 
 
-<!--
-**Goncalocosta3/Goncalocosta3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About Me 
+- I enjoy to play basketball
+- I want to expand my knowledge on computer communications and Ethical hacking
+- improve my programming skills across different programming languages
+- prepare a future in cybersecurity
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Technology and Programming 
+- Python (Beginner)
+- Git and Github (Learning)
